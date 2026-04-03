@@ -66,7 +66,7 @@ elif(escolha == "p"):
         mes_atual = "Agosto"
         print(dia_atual, mes_atual, ano_atual, sep="/")
         print(hora_atual, minuto_atual, segundo_atual, sep=":")
-    elif(mes_atual == "Setember"):
+    elif(mes_atual == "September"):
         mes_atual = "Setembro"
         print(dia_atual, mes_atual, ano_atual, sep="/")
         print(hora_atual, minuto_atual, segundo_atual, sep=":")
