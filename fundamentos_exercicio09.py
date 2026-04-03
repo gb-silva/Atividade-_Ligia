@@ -20,7 +20,7 @@ escolha = input("Escolha 'I' para Inglês e 'P' para Português: ").lower()
 
 
 # conceito de objeto (propriedades e métodos)
-data = dt.datetime.now(ZoneInfo(“America/Sao_Paulo”))
+data = dt.datetime.now(ZoneInfo("America/Sao_Paulo"))
 ano_atual = data.year
 mes_atual = data.strftime("%B") # formata e retorna pra mim por extenso o nome do mês
 dia_atual = data.day
